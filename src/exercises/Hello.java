@@ -1,4 +1,4 @@
-package org.launchcode.java.demos;
+package exercises;
 
 /**
  * From "Java Web Development"
